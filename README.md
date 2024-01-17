@@ -5,8 +5,8 @@
 
 ![](/images/_16_models.png)
 
-- Here is the confusion matrix for the best performing model
+### Here is the confusion matrix for the best performing model
 ![](/images/_cnn_conf_matrix.png)
 
-- t-SNE shows how the model is doing at correctly clustering the different categories
+### t-SNE shows how the model is doing at correctly clustering the different categories
 ![](/images/_cnn_tsne.png)
