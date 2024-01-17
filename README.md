@@ -1,6 +1,6 @@
 # CNN Image Classification
 
-- Experiment with series of neural networks on the CIFAR-10 image dataset
+## Experiment with series of neural networks on the CIFAR-10 image dataset
 -         Data: 60,000 32x32 color images across 10 classes
 
 ![](/images/_16_models.png)
